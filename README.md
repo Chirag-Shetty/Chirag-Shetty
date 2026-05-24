@@ -1,6 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there,%20I'm%20Chirag%20Shetty%20👋&fontSize=35&fontAlign=50&desc=Welcome%20to%20my%20GitHub%20Profile!&descSize=20" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there,%20I'm%20Chirag%20Shetty%20👋&fontSize=35&fontAlign=50" alt="banner"/>
+</p>
+<p align="center">
+  <strong>Welcome to my GitHub Profile!</strong>
 </p>
 
 <!-- Badges and Socials -->
