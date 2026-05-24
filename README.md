@@ -40,15 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag-Shetty&show_icons=true&theme=radical" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-Shetty&theme=radical" alt="streak" width="48%"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
